@@ -1,5 +1,5 @@
 # 2022AI
- 2022 Spring SYSU AI Homework.
+ 2022 (春) 中山大学计算机学院人工智能课程 (本科) 课件资料。
 
 ## Courseware
 
